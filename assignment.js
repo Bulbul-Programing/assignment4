@@ -123,7 +123,7 @@ function canPay(changeArray, totalDue) {
     }
 }
 
-const taka = [1,4,5];
-const chipsPrice = 10;
-const result = canPay(taka, chipsPrice);
-console.log(result);
+// const taka = [1,4,5];
+// const chipsPrice = 10;
+// const result = canPay(taka, chipsPrice);
+// console.log(result);
